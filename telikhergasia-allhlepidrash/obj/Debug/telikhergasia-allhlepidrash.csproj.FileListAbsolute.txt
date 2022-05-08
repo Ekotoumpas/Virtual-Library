@@ -1,0 +1,60 @@
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe.config
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.pdb
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csprojAssemblyReference.cache
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form1.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Properties.Resources.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.GenerateResource.cache
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.CoreCompileInputs.cache
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.pdb
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form2.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form3.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form4.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1.mdf
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1_log.ldf
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB.mdf
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB_log.ldf
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form5.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form7.resources
+C:\Users\tasos\source\repos\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form6.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1.mdf
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1_log.ldf
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB.mdf
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB_log.ldf
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe.config
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.pdb
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csprojAssemblyReference.cache
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form1.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form2.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form3.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form4.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form5.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form6.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form7.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Properties.Resources.resources
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.GenerateResource.cache
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.CoreCompileInputs.cache
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\thymios\Desktop\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.pdb
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1.mdf
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\Database1_log.ldf
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB.mdf
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasiaDB_log.ldf
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe.config
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\bin\Debug\telikhergasia-allhlepidrash.pdb
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csprojAssemblyReference.cache
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form1.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form2.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form3.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form4.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form5.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form6.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Form7.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia_allhlepidrash.Properties.Resources.resources
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.GenerateResource.cache
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.csproj.CoreCompileInputs.cache
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.exe
+C:\Users\thymios\Desktop\ΣΧΟΛΗ\ΕΡΓΑΣΙΕΣ C# PALIOTERA ETOI\telikhergasia-allhlepidrash\telikhergasia-allhlepidrash\obj\Debug\telikhergasia-allhlepidrash.pdb
